@@ -1,0 +1,41 @@
+.hero_section{
+    background: rgb(173, 247, 179);
+}
+
+.hero_content h2{
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin:20px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hero_content p{
+    color: white;
+    line-height: 26px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hero_section p:nth-child(1){
+    font-weight: 500;
+}
+.buy_btn{
+    border: none;
+    outline: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    background: #fff;
+    color: black;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 40px;
+
+}
+
+.buy_btn a:hover{
+    color: black;
+}
+
+.hero_content{
+    padding-top: 45px;
+
+}
